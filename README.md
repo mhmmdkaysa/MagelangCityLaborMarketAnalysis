@@ -11,10 +11,12 @@ This repository is meant to:
 
 "Listening to the industry's whisper, one data point at a time." 🔍🐍
 
-#📬 Contact
+# 📬 Contact
 
 Feel free to connect or reach out!
 
 LinkedIn: Muhammad Kaysa Fathun Naja
+
 GitHub: @mhmmdkaysa
+
 Email: muhammadkaysa35@gmail.com
