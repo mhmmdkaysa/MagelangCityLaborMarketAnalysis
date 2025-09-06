@@ -6,6 +6,7 @@ This project contains the complete data analysis process behind my article, "Men
 uns.id/MagelangLaborMarketAnalysis
 
 
+
 This repository is meant to:
 
 1. Document the end-to-end analysis, from web scraping job portals to data visualization
