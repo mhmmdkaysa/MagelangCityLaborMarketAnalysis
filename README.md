@@ -1,11 +1,7 @@
 # 📊 Labor Market Analysis - Magelang City
 
 Welcome to the Magelang City Labor Market Analysis repository!
-This project contains the complete data analysis process behind my article, "Mendengarkan Bisikan Industri: Analisis Big Data untuk Masa Depan Tenaga Kerja Kota Magelang". This research was proudly nominated for 1st place in a statistical article competition held by the Magelang City Office of Communication, Information, and Statistics (Diskominsta). You can read my article in the link below:
-
-uns.id/MagelangLaborMarketAnalysis
-
-
+This project contains the complete data analysis process behind my article, "Mendengarkan Bisikan Industri: Analisis Big Data untuk Masa Depan Tenaga Kerja Kota Magelang". This research was proudly nominated for 1st place in a statistical article competition held by the Magelang City Office of Communication, Information, and Statistics (Diskominsta). You can read my article in this link: uns.id/MagelangLaborMarketAnalysis
 
 This repository is meant to:
 
